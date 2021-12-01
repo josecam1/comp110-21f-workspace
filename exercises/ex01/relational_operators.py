@@ -1,4 +1,4 @@
-"""This program is supposed to run relational operators"""
+"""This program is supposed to run relational operators."""
 __author__ = "730410369"
 
 lhs: int = int(input("Left-hand side: "))
